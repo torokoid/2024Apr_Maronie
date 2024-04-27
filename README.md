@@ -127,6 +127,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240427_019.JPG" data-lightbox="abc"><img src="20240427_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240427_020.JPG" data-lightbox="abc"><img src="20240427_020.JPG" alt="サンプル画像" width="900" /></a>
 
+<a href="https://makoron-event.net/" data-lightbox="abc">マコロン、リンク</a>
 
 
 <br><br><br><br><br><br>
